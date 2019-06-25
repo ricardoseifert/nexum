@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<cartSummary /> Zu einem Spanshot bestimmt 1`] = `
+<div
+  className="cartSummary"
+>
+  <hr />
+  <ul>
+    <li>
+      Kosten 
+      <span />
+    </li>
+    <li>
+      Mehrwertsteuer 
+      <span />
+    </li>
+    <li>
+      Gesamtsumme 
+      <span />
+    </li>
+  </ul>
+</div>
+`;

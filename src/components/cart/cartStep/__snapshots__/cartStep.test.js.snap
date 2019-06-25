@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<cartStep /> Zu einem Spanshot bestimmt 1`] = `
+<div
+  className="stepWrapper"
+>
+  <ul>
+    <li>
+      Warenkorb
+    </li>
+    <li>
+      Lieferung- Kontaktdaten
+    </li>
+    <li>
+      Zahlungsart
+    </li>
+    <li>
+      bestellungsbestätigung
+    </li>
+    <li>
+      Fertig
+    </li>
+  </ul>
+  <hr />
+</div>
+`;

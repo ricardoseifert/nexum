@@ -1,0 +1,11 @@
+#Cart {
+  padding: 15px;
+  max-width: 900px;
+  margin: auto;
+}
+
+#Cart div.actionsHolder {
+  display: flex;
+  margin-top: 15px;
+  justify-content: flex-end;
+}

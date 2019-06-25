@@ -1,0 +1,25 @@
+#Delivery {
+  padding: 15px;
+  max-width: 900px;
+  margin: auto;
+}
+
+#Delivery div.actionsHolder {
+  display: flex;
+  margin-top: 15px;
+  justify-content: flex-end;
+}
+
+#Delivery > div.formHolder {
+  margin: auto;
+  width: calc(100% - 200px);
+}
+
+#Delivery input {
+  width: 100%;
+}
+
+#Delivery input[type="password"],
+input.zipCode {
+  max-width: 150px;
+}

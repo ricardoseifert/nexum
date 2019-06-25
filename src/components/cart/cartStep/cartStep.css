@@ -1,0 +1,21 @@
+.stepWrapper {
+  padding-bottom: 10px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.stepWrapper ul {
+  padding: 0px;
+}
+.stepWrapper ul li {
+  display: inline;
+  margin-left: 10px;
+}
+
+.stepWrapper li + li::before {
+  content: " > ";
+}
+
+.stepWrapper ul li span {
+  font-weight: bold;
+}

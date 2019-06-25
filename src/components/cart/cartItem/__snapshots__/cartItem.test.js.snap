@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<cartItem /> Zu einem Spanshot bestimmt 1`] = `
+<div
+  className="itemWrapper"
+>
+  <div>
+    <div />
+  </div>
+  <ul>
+    <li
+      className="name"
+    />
+    <li
+      className="desc"
+    />
+    <li
+      className="price"
+    />
+  </ul>
+  <button
+    className="btnDanger"
+    type="button"
+  >
+    Löschen
+  </button>
+</div>
+`;

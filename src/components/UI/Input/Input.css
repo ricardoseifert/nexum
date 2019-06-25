@@ -1,0 +1,18 @@
+input {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #0a0908;
+  background-color: transparent;
+  position: relative;
+  z-index: 2;
+  transition: all 0.2s ease-out;
+}
+
+input:focus {
+  outline: none;
+  border-bottom: 1px solid #00bfb2;
+}
+
+div {
+  text-align: left;
+}
